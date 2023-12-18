@@ -1,3 +1,5 @@
+<!-- Add your profile picture -->
+![Your Profile Picture]([https://github.com/YourUsername/YourRepository/raw/main/path/to/your/image.jpg](https://github.com/JaysonBJohnson/JaysonBJohnson/blob/main/IMG_0250.jpg))
 
 
 <!--
