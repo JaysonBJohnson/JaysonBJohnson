@@ -1,5 +1,5 @@
 
-<img align="right" alt="IMG" src="https://github.com/JaysonBJohnson/JaysonBJohnson/raw/main/IMG_0250.jpg" width="300" height="360" />
+<img align="right" alt="IMG" src="https://github.com/JaysonBJohnson/JaysonBJohnson/raw/main/IMG_0250.jpg" width="300" height="380" />
 
 Hey there, I'm **Jayson Johnson**, a dedicated Mechanical Engineering student and aspiring researcher from Howard University. Currently a Karsh STEM Scholar, I'm passionate about pushing the boundaries of scientific exploration.
 
