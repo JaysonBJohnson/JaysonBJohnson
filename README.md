@@ -28,4 +28,3 @@ Beyond academia, I co-founded Tree Tech, a student-made app at Howard University
 
 If you're interested in discussing research, collaborating on projects, or just sharing ideas, I'm always open to new connections. Let's embark on a journey of innovation and learning together!
 
-[Contact Information]
