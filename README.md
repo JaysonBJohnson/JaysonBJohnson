@@ -1,5 +1,5 @@
 
-<img align="right" alt = "IMG" src="(https://github.com/JaysonBJohnson/JaysonBJohnson/blob/main/IMG_0250.jpg)" width="500" height="320" />
+<img align="right" src="(https://github.com/JaysonBJohnson/JaysonBJohnson/blob/main/IMG_0250.jpg)" width="500" height="320" />
 
 <!--
 **JaysonBJohnson/JaysonBJohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
