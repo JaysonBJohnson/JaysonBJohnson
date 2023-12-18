@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 Hey there, I'm **Jayson Johnson**, a dedicated Mechanical Engineering student and aspiring researcher from Howard University. Currently a Karsh STEM Scholar, I'm passionate about pushing the boundaries of scientific exploration.
 
-## Education and Research
-
 - **Education:** B.S. in Mechanical Engineering (Expected: Jun 2026), GPA: 4.00/4.00
 - **Minors:** Computer Science and Mathematics
 
