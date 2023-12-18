@@ -1,6 +1,5 @@
-<!-- Add your profile picture -->
-![Your Profile Picture]([https://github.com/YourUsername/YourRepository/raw/main/path/to/your/image.jpg](https://github.com/JaysonBJohnson/JaysonBJohnson/blob/main/IMG_0250.jpg))
 
+<img align="right" alt="GIF" src="[https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true](https://github.com/JaysonBJohnson/JaysonBJohnson/blob/main/IMG_0250.jpg)" width="500" height="320" />
 
 <!--
 **JaysonBJohnson/JaysonBJohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
