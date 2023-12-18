@@ -1,11 +1,6 @@
 
 <img align="right" alt="IMG" src="https://github.com/JaysonBJohnson/JaysonBJohnson/raw/main/IMG_0250.jpg" width="500" height="320" />
 
-
-<!--
-**JaysonBJohnson/JaysonBJohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 Hey there, I'm **Jayson Johnson**, a dedicated Mechanical Engineering student and aspiring researcher from Howard University. Currently a Karsh STEM Scholar, I'm passionate about pushing the boundaries of scientific exploration.
 
 - **Education:** B.S. in Mechanical Engineering (Expected: Jun 2026), GPA: 4.00/4.00
