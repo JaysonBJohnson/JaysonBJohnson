@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# About Me
 
 Hey there, I'm **Jayson Johnson**, a dedicated Mechanical Engineering student and aspiring researcher from Howard University. Currently a Karsh STEM Scholar, I'm passionate about pushing the boundaries of scientific exploration.
 
